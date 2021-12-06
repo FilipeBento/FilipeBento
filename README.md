@@ -5,11 +5,11 @@
 ```js
   {
   
-  "name":       Filipe,
+  "name":       filipe,
 
   "nickname":   one-you-like,
 
-  "job":        [ Software-Engineer, Bi-Engineer ],
+  "job":        [ software-engineer, bi-engineer ],
   
   "site":       https://my-future-site.site,
 
@@ -19,7 +19,7 @@
 
   "languages":  [ 💚 Clojure, 💙 Go, 💜 Haskell ],
   
-  "food":       [ Italian ]
+  "support-me": https://www.buymeacoffee.com/FilipeBento
 
 }
 ```
