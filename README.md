@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+## About me
+
+```js
+  {
+  
+  "name":       Filipe,
+
+  "nickname":   one-you-like,
+
+  "job":        [ Software-Engineer, Bi-Engineer ],
+
+  "experience": lifelong-learner,
+
+  "interests":  [ Business, Programming, Philosophy ],
+
+  "languages":  [ 💚 Clojure, 💙 Go, 💜 Haskell ],
+  
+  "food":       [ Italian ]
+
+}
+```
+
 <!--
 **FilipeBento/FilipeBento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
