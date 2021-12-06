@@ -2,27 +2,27 @@
 
 ## About me
 
-```js
-  {
+<pre>
+{
+
+  <strong>"name"</strong>:       Filipe,
+
+  <strong>"nickname"</strong>:   one-you-like,
+
+  <strong>"job"</strong>:        [Software-Engineer, BI-Engineer],
   
-  "name":       filipe,
+  <strong>"website"</strong>:    <a href="https://my-future-site.site">my-personal-site</a>,
 
-  "nickname":   one-you-like,
+  <strong>"experience"</strong>: lifelong-learner,
 
-  "job":        [ software-engineer, bi-engineer ],
+  <strong>"interests"</strong>:  [ Business, Programming, Philosophy ],
+
+  <strong>"languages"</strong>:  [ 💚 Clojure, 💙 Go, 💜 Haskell ],
   
-  "site":       https://my-future-site.site,
-
-  "experience": lifelong-learner,
-
-  "interests":  [ Business, Programming, Philosophy ],
-
-  "languages":  [ 💚 Clojure, 💙 Go, 💜 Haskell ],
-  
-  "support-me": https://www.buymeacoffee.com/FilipeBento
+  <strong>"support-me"</strong>: <a href="https://www.buymeacoffee.com/FilipeBento">Buy me a coffee!</a>☕
 
 }
-```
+</pre>
 
 <!--
 **FilipeBento/FilipeBento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
