@@ -10,6 +10,8 @@
   "nickname":   one-you-like,
 
   "job":        [ Software-Engineer, Bi-Engineer ],
+  
+  "site":       https://my-future-site.site,
 
   "experience": lifelong-learner,
 
