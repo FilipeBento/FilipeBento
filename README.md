@@ -13,7 +13,7 @@
 
   <strong>"interests"</strong>:  [ Business, Programming, Philosophy ],
 
-  <strong>"languages"</strong>:  [ Java, 💜 Python, Bash ],
+  <strong>"languages"</strong>:  [ Java, Python (💜), Bash ],
   
   <strong>"support-me"</strong>: <a href="https://www.paypal.com/donate/?hosted_button_id=CL34FWQGH5X8L">Consider a donation</a> or <a href="https://www.buymeacoffee.com/FilipeBento">Buy me a coffee!</a>☕
 
